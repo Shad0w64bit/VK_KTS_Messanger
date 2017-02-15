@@ -1,2 +1,3 @@
 # VK_KTS_Messanger
-Jabber-client for VKontakte.  It was developed for the competition and are not currently running.
+This app is for communicate in social web VKontakte by Jabber protocol.
+It had developed for contest and now it isn't running for end-user.
